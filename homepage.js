@@ -26,7 +26,39 @@ document.addEventListener("DOMContentLoaded", () => {
         },
         {
             name: "Monkey Mart",
-            path: ""
+            path: "fiealkdcniealzxkejisdlcowuvuybntrrdx_f_f___________F_F_F_E_____E__S__S________e.html"
+        },
+        {
+            name: "Retro Bowl",
+            path: "retro-bowl.html"
+        },
+        {
+            name: "Rocket League",
+            path: "rocket-league.html"
+        },
+        {
+            name: "Slope",
+            path: "slope.html"
+        },
+        {
+            name: "Snake.io",
+            path: "snake-io.html"
+        },
+        {
+            name: "Soccer Legends",
+            path: "soccer-legends.html"
+        },
+        {
+            name: "Euro Cup",
+            path: "soccer-skills-euro-cup.html"
+        },
+        {
+            name: "Subway Surfers",
+            path: "subway-surfers.html"
+        },
+        {
+            name: "Tunnel Rush",
+            path: "tunnel-rush.html"
         },
     ];
 
