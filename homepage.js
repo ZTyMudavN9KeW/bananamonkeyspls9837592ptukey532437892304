@@ -1,12 +1,33 @@
 document.addEventListener("DOMContentLoaded", () => {
     const games = [
         {
-            name: "Sample Game",
-            path: "games/sample-game/index.html"
+            name: "Basketball Legends",
+            path: "basketball-legends-2020.html"
         },
         {
             name: "Basketball Stars",
-            path: "
+            path: "basketball-stars.html"
+        },
+        {
+            name: "Crossy Road",
+            path: "crossy-road.html"
+        },
+        {
+            name: "Dinosaur Game",
+            path: "dinosaur-game.html"
+        },
+        {
+            name: "Drive Mad",
+            path: "drive-mad.html"
+        },
+        {
+            name: "Unblocker",
+            path: "embedder.html"
+        },
+        {
+            name: "Monkey Mart",
+            path: ""
+        },
     ];
 
     const gameList = document.getElementById("game-list");
